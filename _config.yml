@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: auctor.io
+title: Jimi Michiel, MPH
 email: j@auctor.io
 description: > 
   My very cool site (right? I'm cool, right? RIGHT?)
