@@ -4,8 +4,6 @@ title:  "Public Health or Politics: The Recent History of America’s Gun Epidem
 date:   2016-06-14 22:48:38 -0400
 categories: Politics
 ---
-{% include _share-page.html %}
-{% include _twitter-card.html %}
 [This post was originally published on Translational Global Health, a PLOS blog.](http://blogs.plos.org/globalhealth/2016/06/public-health-or-politics-the-recent-history-of-americas-gun-epidemic-and-what-public-health-can-and-should-do-to-end-it/)
 
 On November 14, 2013, the eminently qualified Harvard physician, Dr. Vivek Murthy, was nominated by President Barack Obama to become the 19th United States Surgeon General. His nomination was immediately met with fierce opposition from Republican lawmakers who, with backing from the National Rifle Association (NRA), raised objections over comments regarding gun violence in America. Among the offending statements was a Tweet from the previous fall: “Tired of politicians playing politics w/ guns, putting lives at risk b/c they’re scared of NRA. Guns are a health care issue. #debatehealth.” Murthy’s Tweets from that time are unabashedly political—he criticized Mitt Romney and (presciently) Donald Trump while offering support to Obama. They are the thoughts of a concerned and politically engaged physician who didn’t realise (or didn’t care) how intertwined politics and public health had become.  
@@ -36,3 +34,5 @@ As public health practitioners and researchers, we work to improve the health of
 More than anything, though, we must be political. Like climate change, chronic diseases and poverty, we must embrace the way politics have intersected with science and health. It is no longer enough to stay “above the fray,” public health professionals must become willing and active participants in the American political process if we are ever to see progress made against this devastating but preventable epidemic.
 
 *N.B. Throughout this essay, I refer to gun violence as an epidemic. I realize that this is perhaps a contentious point, but I agree with Sandro Galea’s concise and eloquent commentary on the subject that can be found [here](http://www.huffingtonpost.com/sandro-galea/waking-up-to-another-prev_b_8232630.html).*
+{% include _share-page.html %}
+{% include _twitter-card.html %}
