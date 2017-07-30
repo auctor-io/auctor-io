@@ -34,3 +34,5 @@ As public health practitioners and researchers, we work to improve the health of
 More than anything, though, we must be political. Like climate change, chronic diseases and poverty, we must embrace the way politics have intersected with science and health. It is no longer enough to stay “above the fray,” public health professionals must become willing and active participants in the American political process if we are ever to see progress made against this devastating but preventable epidemic.
 
 *N.B. Throughout this essay, I refer to gun violence as an epidemic. I realize that this is perhaps a contentious point, but I agree with Sandro Galea’s concise and eloquent commentary on the subject that can be found [here](http://www.huffingtonpost.com/sandro-galea/waking-up-to-another-prev_b_8232630.html).*
+
+{% include _share-page.html %}
