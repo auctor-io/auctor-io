@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "The Future of mHealth"
-date:   2016-03-22
+date:   2017-03-22
 categories: Technology
 ---
-[Originally published on PLoS | Blogs](http://blogs.plos.org/globalhealth/2017/03/%EF%BB%BFthe-future-of-mhealth/)
+
+[Originally published on PLoS Blogs](http://blogs.plos.org/globalhealth/2017/03/%EF%BB%BFthe-future-of-mhealth/)
 
 Earlier this month the Finnish mobile phone maker, Nokia, announced that they will be re-releasing an updated version of their legendary 3310 GSM phone. Since it was first released in the early 2000s, the Nokia 3310 has gained a cult following for its incredible durability, long battery life and compact design featuring an internal antenna. Many Europeans and Americans fondly remember the 3310 as their first mobile phone, a device that made meeting up with friends in a crowd easier and a device that provided endless hours of entertainment with the timeless game Snake.
 
